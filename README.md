@@ -6,7 +6,7 @@ and based on Ubuntu.
 
 ### How to use it
 
-Just and then run:
+Just build and run:
 
 ```
 docker build -t asciidocker .
